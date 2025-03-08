@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+matplotlib
+joblib
+transformers
+torch
+googletrans==4.0.0-rc1
+vaderSentiment
+cuml-cuda # Reemplaza "XX" por tu versión de CUDA, por ejemplo: cuml-cuda11

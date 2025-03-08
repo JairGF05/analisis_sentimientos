@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+matplotlib
+scikit-learn
+joblib
+vaderSentiment
+googletrans==4.0.0-rc1
